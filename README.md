@@ -1,1 +1,7 @@
 # Minpro1_DDP
+Nabila Salma Putri
+NIM 2509116065
+
+## FLOWCHART
+
+## CARA KERJA PROGRAM

@@ -5,7 +5,9 @@ NIM 2509116065
 ## FLOWCHART
 <img width="1761" height="1621" alt="Image" src="https://github.com/user-attachments/assets/f73f55d5-da75-4d4a-8468-c1dd5fe7ea38" />
 
-
+### Menu Utama
+Pertama saat kodenya di run di terminal, pengguna akan melihat menu utama. Disini, ada 3 opsi, yaitu untuk menginput data obat, mencari obat, dan untuk mencetak laporan. Pengguna bisa memilih untuk menginput opsi 1, 2, atau 3.
+<img width="1063" height="184" alt="Image" src="https://github.com/user-attachments/assets/0e55d580-bd21-481c-a8eb-74ad6c29b2ca" />
 
 ### Opsi 1
 Jika pengguna memilih opsi 1, pengguna bisa menginput nama obatnya, bentuk sediaannya, dan golongan obatnya, agar data bisa masuk ke list data obat.

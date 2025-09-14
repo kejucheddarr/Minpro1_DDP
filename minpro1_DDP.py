@@ -107,6 +107,5 @@ elif opsi == 3:
         print("End")
 
 else:
-    print("Opsi Invalid")
-
     print("End")
+

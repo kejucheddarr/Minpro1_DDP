@@ -50,10 +50,10 @@ Jika pengguna memilih opsi 2, pengguna bisa mencari obat menggunakan _'search'_ 
 ## Opsi 3
 Jika pengguna memilih opsi 3, pengguna bisa memilih untuk mencetak laporan keluar/masuk stok obat.
 <img width="1062" height="138" alt="Image" src="https://github.com/user-attachments/assets/aeafbe87-7953-4984-80b7-b6043c5f69b8" />
-Kalau pengguna memilih untuk **mencetak** laporan, maka akan muncul teks yang berisi informasi keluar/masuk stok obat. Program selesai.
-<img width="1067" height="127" alt="Image" src="https://github.com/user-attachments/assets/cfcd5c7a-d3ae-4d33-9a16-22b9eafd93eb" />
-Kalau pengguna memilih untuk **tidak mencetak** laporan, maka program akan berakhir.
-<img width="1071" height="80" alt="Image" src="https://github.com/user-attachments/assets/34288d8b-6d3e-4a79-a8b4-1f0d6f454c33" />
+> Kalau pengguna memilih untuk **mencetak** laporan, maka akan muncul teks yang berisi informasi keluar/masuk stok obat. Program selesai.
+> <img width="1067" height="127" alt="Image" src="https://github.com/user-attachments/assets/cfcd5c7a-d3ae-4d33-9a16-22b9eafd93eb" />
+> Kalau pengguna memilih untuk **tidak mencetak** laporan, maka program akan berakhir.
+> <img width="1071" height="80" alt="Image" src="https://github.com/user-attachments/assets/34288d8b-6d3e-4a79-a8b4-1f0d6f454c33" />
 
 ## Opsi selain 1-3
 Jika pengguna memilih untuk menginput opsi selain opsi 1, 2, atau 3, maka program akan berakhir.

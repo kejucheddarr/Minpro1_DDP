@@ -3,7 +3,7 @@ Nabila Salma Putri
 NIM 2509116065
 
 ## FLOWCHART
-<img width="1812" height="1622" alt="Image" src="https://github.com/user-attachments/assets/ad96ccd6-eb3d-42ba-b701-4ed59081ed7f" />
+<img width="1761" height="1621" alt="Image" src="https://github.com/user-attachments/assets/17592c07-5c27-49c9-a849-24c5685a2196" />
 
 ## CARA KERJA PROGRAM
 ### Menu Utama

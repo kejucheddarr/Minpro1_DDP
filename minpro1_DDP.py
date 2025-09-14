@@ -16,7 +16,7 @@ laporan_bulan = [
 
 print("Pendataan Obat di Rumah Sakit")
 
-print("[1] Input Obat")
+print("[1] Input Data Obat")
 print("[2] Cari Obat")
 print("[3] Cetak/Export Laporan")
 
@@ -108,4 +108,5 @@ elif opsi == 3:
 
 else:
     print("Opsi Invalid")
+
     print("End")
